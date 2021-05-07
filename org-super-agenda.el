@@ -180,7 +180,7 @@ default is.  But in case of performance problems, it can be
 disabled.  This sets the INHERIT argument to `org-entry-get'."
   :type 'boolean)
 
-(defcustom org-super-agenda-unmatched-name "Other items"
+(defcustom org-super-agenda-unmatched-name "OTHER ITEMS"
   "Default name for agenda section containing items unmatched by any filter."
   :type 'string)
 
